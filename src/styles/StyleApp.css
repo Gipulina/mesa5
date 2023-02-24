@@ -1,0 +1,16 @@
+.container-general{
+    display: flex;
+    align-items: center; 
+    border:  2px solid black;
+}
+h1{
+    color:aqua;
+    display: block;
+    border:  2px solid black;
+}
+div{
+    top:10px;
+    text-align: center;
+    border: 3px double red;
+    margin: aut
+}
